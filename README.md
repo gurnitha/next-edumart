@@ -82,8 +82,11 @@ https://github.com/gurnitha/next-imadeit
         modified:   client/pages/index.js
         new file:   client/public/css/styles.css
 
+#### 1.12 Membuat halaman login dan register
 
-
+        modified:   README.md
+        new file:   client/pages/login.js
+        new file:   client/pages/register.js
 
 
 
