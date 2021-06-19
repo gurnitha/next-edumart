@@ -66,9 +66,10 @@ https://github.com/gurnitha/next-imadeit
         modified:   client/package-lock.json
         modified:   client/package.json
 
+#### 1.9 Membuat file _app.js untuk inisialisasi halaman web
 
-
-
+        modified:   README.md
+        new file:   client/pages/_app.js
 
 
 
