@@ -76,9 +76,11 @@ https://github.com/gurnitha/next-imadeit
         modified:   README.md
         modified:   client/pages/index.js
 
+#### 1.11 Menampilkan 'Hello World'
 
-
-
+        modified:   client/pages/_app.js
+        modified:   client/pages/index.js
+        new file:   client/public/css/styles.css
 
 
 
