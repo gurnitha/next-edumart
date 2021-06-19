@@ -15,3 +15,8 @@
         modified:   README.md
         new file:   client/package-lock.json
         modified:   client/package.json
+
+#### 1.3 Menambahkan scripts pada package.json file
+
+        modified:   README.md
+        modified:   client/package.json
