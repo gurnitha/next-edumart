@@ -101,9 +101,12 @@ https://github.com/gurnitha/next-imadeit
         modified:   client/package.json
         modified:   client/pages/index.js
 
+#### 1.15 Membua form pada halaman register
 
-
-
+        modified:   README.md
+        modified:   client/package-lock.json
+        modified:   client/package.json
+        modified:   client/pages/register.js
 
 
 
