@@ -35,3 +35,18 @@ https://github.com/gurnitha/next-imadeit
         https://github.com/gurnitha/next-imadeit
         modified:   README.md
 
+#### 1.6 Struktur codes
+
+        .iMadeIT$
+        ├── README.md
+        └── client
+        ├── node_modules
+        │   ├── @babel
+        │   ├── @hapi
+                ...
+        │   ├── xtend
+        │   └── yocto-queue
+        ├── package-lock.json
+        ├── package.json
+        └── pages
+                └── index.js
