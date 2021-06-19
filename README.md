@@ -55,3 +55,92 @@ https://github.com/gurnitha/next-imadeit
 #### 1.7 Modifikasi file README.md 
 
         modified:   README.md
+
+
+#### 1.8 Install Bootstrap dan Ant Design 
+
+        > npm install bootstrap
+        > npm install antd
+
+        modified:   README.md
+        modified:   client/package-lock.json
+        modified:   client/package.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
