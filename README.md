@@ -71,7 +71,10 @@ https://github.com/gurnitha/next-imadeit
         modified:   README.md
         new file:   client/pages/_app.js
 
+#### 1.10 Percobaan menggunakan Bootstrap Class
 
+        modified:   README.md
+        modified:   client/pages/index.js
 
 
 
