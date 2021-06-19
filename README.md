@@ -1,5 +1,7 @@
 ## Membuat Aplikasi Marketplace untuk eLearning Menggunakan NEXT.js
 
+https://github.com/gurnitha/next-imadeit
+
 ### 1. CLIENT SETUP 
 
 #### 1.1 Inisialisasi proyek
@@ -26,4 +28,10 @@
         modified:   .gitignore
         modified:   README.md
         new file:   client/pages/index.js
+
+#### 1.5 Membuat Remote Github Repository
+
+        gurnitha/next-imadeit
+        https://github.com/gurnitha/next-imadeit
+        modified:   README.md
 
