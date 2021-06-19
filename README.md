@@ -35,18 +35,23 @@ https://github.com/gurnitha/next-imadeit
         https://github.com/gurnitha/next-imadeit
         modified:   README.md
 
-#### 1.6 Struktur codes
+#### 1.6 Struktur folder dan file
 
-        .iMadeIT$
+        _TheProject/iMadeIT$ tree -L 3
+        .
         ├── README.md
         └── client
-        ├── node_modules
-        │   ├── @babel
-        │   ├── @hapi
-                ...
-        │   ├── xtend
-        │   └── yocto-queue
-        ├── package-lock.json
-        ├── package.json
-        └── pages
+            ├── node_modules
+            │   ├── @babel
+            │   ├── @hapi
+            ...
+            │   ├── xtend
+            │   └── yocto-queue
+            ├── package-lock.json
+            ├── package.json
+            └── pages
                 └── index.js
+
+#### 1.7 Modifikasi file README.md 
+
+        modified:   README.md
