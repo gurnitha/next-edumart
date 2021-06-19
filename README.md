@@ -88,9 +88,11 @@ https://github.com/gurnitha/next-imadeit
         new file:   client/pages/login.js
         new file:   client/pages/register.js
 
+#### 1.13 Membuat contoh navigasi dan tampilkan di setiap halaman
 
-
-
+        modified:   README.md
+        new file:   client/components/TopNav.js
+        modified:   client/pages/_app.js
 
 
 
