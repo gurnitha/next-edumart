@@ -20,3 +20,10 @@
 
         modified:   README.md
         modified:   client/package.json
+
+#### 1.4 Menampilkan 'Hello World'
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   client/pages/index.js
+
