@@ -94,9 +94,12 @@ https://github.com/gurnitha/next-imadeit
         new file:   client/components/TopNav.js
         modified:   client/pages/_app.js
 
+#### 1.14 Membuat Menu + icons menggunakan Ant Design
 
-
-
+        modified:   README.md
+        modified:   client/components/TopNav.js
+        modified:   client/package.json
+        modified:   client/pages/index.js
 
 
 
